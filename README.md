@@ -1,24 +1,29 @@
-# 💻 Hello, I'm Anant!
+# Hi, I'm Anant!
 
-🎓 I'm a Chemical Engineering student at NIT Calicut with a strong passion for technology, programming, and problem-solving. While my academic background is rooted in core chemical engineering, I've been actively exploring the world of *Python, **Machine Learning, and **Software Development*.
+## About myself
 
-## 🚀 What I'm Working On
-- 💡 Strengthening my Python programming skills
-- 🔬 Preparing for GATE 2027 (Core Chemical Engineering)
-- 
-## 🧠 Tech & Tools
+Chemical Engineering undergraduate at NIT Calicut, focused on core ChemE fundamentals, engineering computation, and real-world application of AI as a productivity and decision-support tool.
+Long-term trajectory includes techno-managerial leadership via an MBA, built on strong technical depth.
+
+## Current Focus Areas
+* Chemical Engineering Core
+* Python for ChemE calculations
+* Process simulation 
+* Applied AI
+  
+## What I'm Working On
+* Strengthening my Python programming skills
+* Preparing for GATE 2027 
+* Simulating industrial designs of Process flow diagrams
+  
+## Tech & Tools
 - *Languages*: Python
+- *Simulation*: DWSIM
 
-## 📈 Goals
-- ✅ Master ML fundamentals and mathematics
-- ✅ Build real-world ML projects
-- ✅ Transition into AI/ML roles with a strong engineering foundation
-- ✅ Maintain daily consistency in coding & learning
-
-## 📫 Let's Connect!
+## Let's Connect!
 - 🔗 [LinkedIn] : (https://www.linkedin.com/in/anant-mukherjee-954b27367/)
 - 📧 [Email] : (anantmukherjee.2025@gmail.com)
+&nbsp;  
+&nbsp;
 
----
-
-> ⚡ Consistency beats intensity. I'm here to learn, build, and grow — one line of code at a time.
+>  Consistency beats intensity.
